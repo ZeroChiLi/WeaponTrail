@@ -1,0 +1,12 @@
+
+.vs/WeaponTrail/v15/.suo
+.vs/WeaponTrail/v15/Server/sqlite3/db.lock
+.vs/WeaponTrail/v15/Server/sqlite3/storage.ide
+.vs/WeaponTrail/v15/Server/sqlite3/storage.ide-shm
+.vs/WeaponTrail/v15/Server/sqlite3/storage.ide-wal
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Library
+Temp
+Logs
+obj
